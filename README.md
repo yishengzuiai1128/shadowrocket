@@ -1,5 +1,5 @@
 ### 安装
-在线安装地址：https://biyunyao.github.io/shadowrocket/index.html
+在线安装地址：https://yishengzuiai1128.github.io/ssfeiji/index.html
 
 ### 最新版本
 https://biyunyao.github.io
