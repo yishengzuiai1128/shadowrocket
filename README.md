@@ -2,7 +2,7 @@
 在线安装地址：https://yishengzuiai1128.github.io/ssfeiji/index.html
 
 ### 最新版本
-https://biyunyao.github.io
+https://github.com/yishengzuiai1128/ssfeiji
 
 ### 使用说明
 1. Shadowrocket v2.1.12 ，版本低一点但是不影响正常使用，主要是为大家提供免验证版本，安装即可使用
